@@ -121,7 +121,7 @@ http://localhost:5173
 
 ## Dashboard Preview
 
-https://github.com/gajulaakanksha/securepay_dashboard/blob/main/Screenshot_1.png
+<img width="1354" height="566" alt="Screenshot_1" src="https://github.com/user-attachments/assets/57dcf719-2991-43a5-af3f-4ab0cbb3000d" />
 
 ## Future Improvements
 
