@@ -74,7 +74,7 @@ securepay-dashboard
 │
 ├── package.json
 ├── README.md
-└── screenshot.png
+└── screenshot_1.png
 ```
 
 ## Example:
@@ -118,13 +118,10 @@ The dashboard will start at:
 ```
 http://localhost:5173
 ```
-## Dashboard Preview
-
-(Add your dashboard screenshot here)
 
 ## Dashboard Preview
 
-![SecurePay Dashboard](screenshot_1.png)
+https://github.com/gajulaakanksha/securepay_dashboard/blob/main/Screenshot_1.png
 
 ## Future Improvements
 
