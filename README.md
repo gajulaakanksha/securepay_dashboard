@@ -124,7 +124,7 @@ http://localhost:5173
 
 ## Dashboard Preview
 
-![SecurePay Dashboard](screenshot.png)
+![SecurePay Dashboard](screenshot_1.png)
 
 ## Future Improvements
 
